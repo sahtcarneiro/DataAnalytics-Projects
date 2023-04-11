@@ -27,15 +27,15 @@ Aqui você pode disponibilizar imagem para uma pré visualização estática ou 
 - Nome do Projeto/
   - README.md
   - datasets/
-    - raw
+    - raw  
       Dados brutos
-    - refined
+    - refined  
       Dados trados
-  - analysis/
+  - analysis/  
     Arquivos e/ou links para código de tratamento e análise dos dados
-  - dataviz/
+  - dataviz/  
     Arquivos e/ou links para visualização do dashboard do projeto.
-  - report/
+  - report/  
     Arquivos e/ou links com um relatório a cerca das análises feitas.
 
 ## Licença
@@ -68,7 +68,7 @@ Lista de linguagens de programação, ferramentas e bibliotecas utilizadas no pr
 ## Referências
 
 Links para artigos, papers, tutoriais ou outras referências utilizadas no projeto.  
-<a href="#">Artigo</a>
-<a href="#">Paper</a>
-<a href="#">Tutorial</a>
+<a href="#">Artigo</a>  
+<a href="#">Paper</a>  
+<a href="#">Tutorial</a>  
 <a href="#">Respositório Github</a>
