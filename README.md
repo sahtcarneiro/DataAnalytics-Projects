@@ -27,27 +27,27 @@ Antes de enviar um projeto é importante que ele atenda os requisitos abaixo:
 - Os resultados e insights obtidos devem ser relevantes
 
 ## Estrutura do README dos projetos
-- Nome do Projeto
+- <b>Nome do Projeto</b>
   - Breve descrição do projeto.
-- Conjunto de Dados
+- <b>Conjunto de Dados</b>
   - Fonte dos dados utilizados no projeto, descrição de como os dados foram coletados e/ou preparados para a análise e descrição das variáveis e colunas de dados.
-- Análise Exploratório de Dados 
+- <b>Análise Exploratório de Dados</b> 
   - Descrição das análises realizadas e principais insights obtidos.
-- Modelagem e Predição
+- <b>Modelagem e Predição</b>
   - Caso tenha sido usado modelos de aprendizado de máquina e/ou técnicas de predição faça a descrição dos mesmos falando sobre como os modelos foram construidos e avaliados, e quais resultados foram obtidos incluindo métricas de desempenho.
-- Conclusões
+- <b>Conclusões</b>
   - Sumário dos resultados e principais insights obtidos, além de trazer as limitações do projeto e prossíveis melhorias para o futuro.
-- Licença
+- <b>Licença</b>
   - Descrever sob qual licença o projeto é licenciado e linkar o arquivo da licença dentro do projeto. Caso o projeto não seja licenciado é requisitado que seja utilizada a Licença MIT
-- Autor
+- <b>Autores</b>
   - Informações do autor ou equipe de desenvolvimento, contendo algum meio de contato válido ou rede social ativa.
-- Tecnologias Utilizadas
+- <b>Tecnologias Utilizadas</b>
   - Lista de linguagens de programação, ferramentas e bibliotecas utilizadas no projeto
-- Referências
+- <b>Referências</b>
   - Links para artigos, papers, tutoriais ou outras referências utilizadas no projeto
  
  ## Licença
-Todos os projetos desse repositório estão sob uma licença específica. Tenha a certeza de ler e entender a licença antes antes de utilizar qualquer um desses projetos em suas próprias análises. Ela poderá ser encontrada no arquivo 'License' na pasta do projeto.
+Todos os projetos desse repositório estão sob uma licença específica. Tenha a certeza de ler e entender a licença antes antes de utilizar qualquer um desses projetos em suas próprias análises. Ela poderá ser encontrada no arquivo <b>'LICENSE'</b> na pasta do projeto.
  
 A licença é um acordo legal entre o criador do projeto e o usurário. Ela define os termos de uso do projeto e pode incluir informações sobre como o projeto pode ser distribuído, modificado e compartilhado. A licença também pode incluir informações sobre responsabilidade e garantia.
  
