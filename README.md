@@ -1,4 +1,5 @@
 # DataAnalytics-Projetcs    
+![Business-Analytics-Wallpaper-6](https://user-images.githubusercontent.com/97403639/231227220-53186218-874e-40ed-90c4-e4762767f3eb.jpg)
 Este repositório contém um conjunto de projetos pessoais de análise de dados em diferentes áreas temáticas. Os projetos incluem desde análises exploratórias simples até projetos mais complexos e elaborados.
 
 Os conjuntos de dados abrangem diferentes tópicos, como finanças, esportes, saúde, meio ambiente, segurança, entre outros, e os projetos mostram como a análise de dados pode ser aplicada em várias situações do cotidiano.
