@@ -53,13 +53,11 @@ Lista de linguagens de programação, ferramentas e bibliotecas utilizadas no pr
 <table>
   <tr>
     <td>Tecnologia</td>
-    <td>Versão</td>
-  </tr>
-  <tr>
     <td>Tecnologia 1</td>
     <td>Tecnologia 2</td>
   </tr>
   <tr>
+    <td>Versão</td>
     <td>Versão Tecnologia 1</td>
     <td>Versão Tecnologia 2</td>
   </tr>
